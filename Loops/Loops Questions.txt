@@ -1,0 +1,18 @@
+1.Explain the difference between a for loop and a while loop. In what scenarios would you prefer to use one over the other?
+2.Write a for loop that iterates through a list of integers and prints only the even numbers.
+3.Write a while loop that continues to ask the user for a number until they enter a negative number. The loop should print the sum of all entered numbers.
+4.Given a list of strings, use a for loop to create a new list containing the lengths of each string.
+5.What is the purpose of the break and continue statements in loops? Provide an example of each.
+6.Implement a while loop that prints the Fibonacci sequence up to a given number n.
+7.Explain how nested for loops work. In what situations are they commonly used?
+8.Write a nested for loop to generate a multiplication table (from 1x1 to 10x10).
+9.for loops to create a (*) pattern like Pyramid, for a given number n = 6:
+10.What is list comprehension? How does it differ from using a for loop to create a list?
+11.Use list comprehension to create a list of squares of the first 10 positive integers.
+12.Given a list of strings, use list comprehension to create a new list that contains only the strings that have more than 3 characters.
+13.Given two lists, one of keys and one of values, use dictionary comprehension to create a dictionary.
+14.Write a dictionary comprehension to create a dictionary from a list of numbers, where each key is the number and the value is its square.
+15.What is the difference between the break and continue statements? Provide an example of each in a loop.
+16.Write a for loop that iterates through a list of numbers. Use the break statement to exit the loop when a number greater than 50 is encountered.
+17.Create a while loop that prints the numbers from 1 to 10, but skips the number 5 using the continue statement.
+18.Given a list of integers, use a for loop with a break statement to find and print the first negative number in the list. If there are no negative numbers, print "No negative numbers found."
