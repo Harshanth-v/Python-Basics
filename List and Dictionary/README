@@ -1,1 +1,40 @@
+# 🐍 Python Basics: Lists and Dictionaries
+
+Welcome to this beginner-friendly notebook!  
+This project is designed to help you understand two of Python’s most important data structures — **Lists** and **Dictionaries** — with clear examples and explanations.
+
+---
+
+## 📘 What’s Inside
+
+- ✅ Understanding Lists  
+- ✅ Accessing and Modifying List Elements  
+- ✅ Common List Methods (append, remove, sort, etc.)  
+- ✅ Nested Lists and Iteration  
+- ✅ Understanding Dictionaries  
+- ✅ Accessing and Updating Dictionary Values  
+- ✅ Looping through Dictionaries  
+- ✅ Practical Examples
+
+---
+
+## 🧑‍💻 How to Run
+
+1. Clone or download this repository.  
+2. Open the file **`list&dict.ipynb`** using [Jupyter Notebook](https://jupyter.org/) or [VS Code](https://code.visualstudio.com/) with the Jupyter extension.  
+3. Run the cells one by one to see the output and learn interactively.
+
+---
+
+## 💡 Example Preview
+
+```python
+# Example: Working with Lists
+fruits = ["apple", "banana", "cherry"]
+fruits.append("orange")
+print(fruits)
+
+# Example: Working with Dictionaries
+student = {"name": "Harshanth", "age": 20, "course": "Python"}
+print(student["name"])
 
