@@ -1,40 +1,54 @@
-📘 Overview
-The folder “List and Dictionary” contains beginner-friendly Python programs.
+# 🧠 Python Lists & Dictionaries
 
-Focus is on lists and dictionaries, two fundamental data structures in Python.
+### Understanding Core Python Data Structures with Hands-on Examples
 
-📝 Topics Covered
-Lists
+---
 
-Creating and accessing elements
+## 📘 Overview
+This project demonstrates the *fundamentals of Lists and Dictionaries in Python* through simple and practical examples.  
+It’s perfect for beginners learning how to *store, access, and manipulate data efficiently.*
 
-Adding, removing, updating items
+- *Notebook/File:* List & Dict.ipynb
+- *Focus Areas:* Python Basics, Lists, Dictionaries, Loops, and Functions
 
-Looping through lists
+---
 
-Common methods: append(), insert(), pop(), remove(), sort()
+## 🧩 Topics Covered
 
-Dictionaries
+### 📂 Lists
+Lists are *ordered, mutable collections* used to store multiple items.  
+They can hold elements of different data types and support powerful operations.
 
-Creating key–value pairs
+*Key Points:*
+- Defined using [ ]
+- Mutable (can be changed)
+- Support indexing and slicing
+- Common methods: append(), insert(), remove(), pop(), sort()
 
-Accessing and updating values
+---
 
-Looping through keys and values
+### 🗂️ Dictionaries
+Dictionaries store data as *key–value pairs* and are used when each value needs a unique identifier.  
+They are *unordered, mutable, and dynamic*.
 
-Methods: items(), keys(), values()
+*Key Points:*
+- Defined using { }
+- Access values using keys
+- Support adding, updating, and deleting key–value pairs
+- Common methods: items(), keys(), values()
 
-Nested dictionaries
+---
 
-Combined Usage
+### 🔄 Combined Usage
+Lists and Dictionaries can work together to represent structured data.
 
-Lists inside dictionaries and dictionaries inside lists
+*Examples:*
+```python
+students = [
+    {"name": "Aarav", "marks": [85, 90, 88]},
+    {"name": "Diya", "marks": [78, 82, 89]},
+]
 
-Real-world examples (e.g., storing student or product data)
-
-🎯 Objective
-Build a strong foundation in list and dictionary operations.
-
-Show how to combine both structures for practical applications.
-
-Prepare learners for advanced data manipulation (e.g., working with JSON or APIs).
+for student in students:
+    avg = sum(student["marks"]) / len(student["marks"])
+    print(f"{student['name']} - Average Marks: {avg}")
