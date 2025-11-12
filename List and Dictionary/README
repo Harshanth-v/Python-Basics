@@ -1,0 +1,43 @@
+# 🐍 Python Basics – List and Dictionary
+
+## 📘 Overview
+This folder contains Python programs that demonstrate how to use *lists* and *dictionaries* — two of the most important data structures in Python.  
+These examples are designed for beginners to understand data storage, manipulation, and retrieval using simple and practical examples.
+
+---
+
+## 📚 Topics Covered
+
+### 🔹 Lists
+- Creating and accessing list elements  
+- Adding, removing, and updating items  
+- Looping through lists  
+- Common list methods: append(), insert(), pop(), remove(), sort(), etc.  
+
+### 🔹 Dictionaries
+- Creating key–value pairs  
+- Accessing and updating dictionary values  
+- Looping through keys and values  
+- Dictionary methods: items(), keys(), values()  
+- Nested dictionaries  
+
+### 🔹 Combined Usage
+- Using lists inside dictionaries and dictionaries inside lists  
+- Real-world style examples (e.g., storing and organizing student or product data)
+
+---
+
+## 🎯 Objective
+The goal of this folder is to:
+- Build a strong foundation in *list and dictionary operations*
+- Show how to *combine both structures* for real-life applications
+- Prepare you for *advanced data manipulation* in Python (such as working with JSON or APIs)
+
+---
+
+## ⚙️ How to Use
+1. Browse the .py files in this folder.  
+2. Open them in any Python editor or VS Code.  
+3. Run the scripts using:
+   ```bash
+   python filename.py
