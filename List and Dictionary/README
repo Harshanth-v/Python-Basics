@@ -1,36 +1,40 @@
-Python Basics – List and Dictionary
+📘 Overview
+The folder “List and Dictionary” contains beginner-friendly Python programs.
 
-Overview
+Focus is on lists and dictionaries, two fundamental data structures in Python.
 
-This folder contains Python programs that demonstrate how to use lists and dictionaries — two of the most important data structures in Python.
-These examples are designed for beginners to understand data storage, manipulation, and retrieval using simple and practical examples.
-
-⸻
-
-Topics Covered
-
+📝 Topics Covered
 Lists
-	•	Creating and accessing list elements
-	•	Adding, removing, and updating items
-	•	Looping through lists
-	•	Common list methods: append(), insert(), pop(), remove(), sort(), etc.
+
+Creating and accessing elements
+
+Adding, removing, updating items
+
+Looping through lists
+
+Common methods: append(), insert(), pop(), remove(), sort()
 
 Dictionaries
-	•	Creating key–value pairs
-	•	Accessing and updating dictionary values
-	•	Looping through keys and values
-	•	Dictionary methods: items(), keys(), values()
-	•	Nested dictionaries
+
+Creating key–value pairs
+
+Accessing and updating values
+
+Looping through keys and values
+
+Methods: items(), keys(), values()
+
+Nested dictionaries
 
 Combined Usage
-	•	Using lists inside dictionaries and dictionaries inside lists
-	•	Real-world examples such as storing and organizing student or product data
 
-⸻
+Lists inside dictionaries and dictionaries inside lists
 
-Objective
+Real-world examples (e.g., storing student or product data)
 
-The goal of this folder is to:
-	•	Build a strong foundation in list and dictionary operations
-	•	Show how to combine both structures for real-life applications
-	•	Prepare for advanced data manipulation in Python such as working with JSON or APIs
+🎯 Objective
+Build a strong foundation in list and dictionary operations.
+
+Show how to combine both structures for practical applications.
+
+Prepare learners for advanced data manipulation (e.g., working with JSON or APIs).
